@@ -1,0 +1,46 @@
+body{
+    background-color: brown;
+   
+}
+
+.badge{
+
+    width: 300px;
+    
+    background-color: aliceblue;
+    margin:100px auto 100px auto;
+    text-align: center;
+    border-radius: 10px;
+    padding:20px;
+
+    
+}
+
+.badge img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+.badge a{
+    color: rgb(136, 2, 2);
+    margin:20px;
+    text-decoration: none;
+    
+}
+
+.badge #symbolat{
+    color: rgb(82, 77, 77);
+}
+
+.badge p{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+
+}
+.badge #intro{
+    font-size: 14px;
+}
